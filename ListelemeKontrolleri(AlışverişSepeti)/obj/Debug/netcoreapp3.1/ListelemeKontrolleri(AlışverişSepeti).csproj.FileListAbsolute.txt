@@ -1,0 +1,16 @@
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).exe
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).deps.json
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).runtimeconfig.json
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).dll
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\bin\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).pdb
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri_AlışverişSepeti_.Form1.resources
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).csproj.GenerateResource.cache
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).AssemblyInfo.cs
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).dll
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).pdb
+C:\Users\HALUK\source\repos\ListelemeKontrolleri(AlışverişSepeti)\obj\Debug\netcoreapp3.1\ListelemeKontrolleri(AlışverişSepeti).genruntimeconfig.cache

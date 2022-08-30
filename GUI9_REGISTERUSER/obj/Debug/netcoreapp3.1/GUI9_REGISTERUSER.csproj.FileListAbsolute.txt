@@ -1,0 +1,16 @@
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.exe
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.deps.json
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.runtimeconfig.json
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.dll
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\bin\Debug\netcoreapp3.1\GUI9_REGISTERUSER.pdb
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.Form1.resources
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.csproj.GenerateResource.cache
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.AssemblyInfo.cs
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.dll
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.pdb
+C:\Users\HALUK\source\repos\GUI9_REGISTERUSER\obj\Debug\netcoreapp3.1\GUI9_REGISTERUSER.genruntimeconfig.cache

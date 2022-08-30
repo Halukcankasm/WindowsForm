@@ -1,0 +1,16 @@
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).exe
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).deps.json
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).runtimeconfig.json
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).runtimeconfig.dev.json
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).dll
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\bin\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).pdb
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).csproj.AssemblyReference.cache
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider_WinForm_.Form1.resources
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).csproj.GenerateResource.cache
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).AssemblyInfoInputs.cache
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).AssemblyInfo.cs
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).csproj.CoreCompileInputs.cache
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).dll
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).pdb
+C:\Users\HALUK\source\repos\GUI7_ErrorProvider(WinForm)\obj\Debug\netcoreapp3.1\GUI7_ErrorProvider(WinForm).genruntimeconfig.cache
